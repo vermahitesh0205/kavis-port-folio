@@ -33,7 +33,7 @@ const Projects = () => {
             image: "/e1.jpeg",
             description: "A full-featured e-commerce mobile application built with React Native, featuring product listing, cart management, and secure payment processing.",
             technologies: ["React Native", "Redux", "NativeWind", "Razorpay"],
-            apkLink: "https://drive.google.com/file/d/YOUR_GDRIVE_FILE_ID/view?usp=sharing", // Google Drive link here
+            apkLink: "https://drive.google.com/file/d/13_4lBPIC7dGpzR-AYTiOMBr8yroYKYfs/view?usp=sharing", // Google Drive link here
             screenshots: [
                 "/e1.jpeg",
                 "/e2.jpeg",
@@ -49,7 +49,7 @@ const Projects = () => {
             image: "/clikshop1.jpeg",
             description: "Clikshop is your go-to online bookstore, delivering books and stationery across Chhattisgarh and India. From school and college textbooks to competitive exam guides and general reading, we've got it all in one place.",
             technologies: ["React Native", "TypeScript", "Redux", "Razorpay"],
-            apkLink: "https://drive.google.com/file/d/YOUR_GDRIVE_FILE_ID/view?usp=sharing", // Google Drive link here
+            apkLink: "https://play.google.com/store/apps/details?id=com.bansal.clickshop&pcampaignid=web_share", // Google Drive link here
             screenshots: [
                 "/clikshop1.jpeg",
                 "/clikshop2.jpeg",
@@ -80,7 +80,7 @@ Clikshop is the premier online bookstore app, catering to all your educational a
             image: "/milk1.jpeg",
             description: "Milk Supply is a smart dairy app for managing daily milk delivery, orders, billing, and customer records with ease.",
             technologies: ["React Native", "Redux", "Firebase", "Google Maps API"],
-            apkLink: "https://drive.google.com/file/d/YOUR_GDRIVE_FILE_ID/view?usp=sharing", // Google Drive link here
+            apkLink: "https://drive.google.com/file/d/1EDhrg3eij8hEFTGi3Gzoc3g-QVL37Hok/view?usp=sharing", // Google Drive link here
             screenshots: [
                 "/milk1.jpeg",
                 "/milk2.jpeg",
